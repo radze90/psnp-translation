@@ -65,7 +65,17 @@ const PSNP_TRANSLATIONS = {
         reportUnobtainableTrophies: 'Report Unobtainable Trophies',
         donationText: 'If you find PSNP+ useful, please consider supporting this project and buying me a coffee ☕. Thanks!',
         language: 'Language',
-        selectLanguage: 'Select Interface Language'
+        selectLanguage: 'Select Interface Language',
+        hoursAgo: 'hours ago in',
+        hourAgo: 'hour ago in',
+        daysAgo: 'days ago in',
+        dayAgo: 'day ago in',
+        weeksAgo: 'weeks ago in',
+        weekAgo: 'week ago in',
+        monthsAgo: 'months ago in',
+        monthAgo: 'month ago in',
+        yearsAgo: 'years ago in',
+        yearAgo: 'year ago in'
     },
     de: {
         markUnobtainableTrophies: 'Unerreichbare Trophäen markieren',
@@ -130,7 +140,17 @@ const PSNP_TRANSLATIONS = {
         reportUnobtainableTrophies: 'Unerreichbare Trophäen melden',
         donationText: 'Wenn dir PSNP+ nützlich ist, unterstütze bitte dieses Projekt und spendiere mir einen Kaffee ☕. Danke!',
         language: 'Sprache',
-        selectLanguage: 'Spracheinstellung'
+        selectLanguage: 'Spracheinstellung',
+        hoursAgo: 'Stunden her in',
+        hourAgo: 'Stunde her in',
+        daysAgo: 'Tagen her in',
+        dayAgo: 'Tag her in',
+        weeksAgo: 'Wochen her in',
+        weekAgo: 'Woche her in',
+        monthsAgo: 'Monaten her in',
+        monthAgo: 'Monat her in',
+        yearsAgo: 'Jahren her in',
+        yearAgo: 'Jahr her in'
     },
     pl: {
         markUnobtainableTrophies: 'Oznaczaj niedostępne trofea',
@@ -195,6 +215,16 @@ const PSNP_TRANSLATIONS = {
         reportUnobtainableTrophies: 'Zgłoś niedostępne trofea',
         donationText: 'Jeśli uważasz PSNP+ za przydatne, rozważ wspieranie tego projektu i kup mi kawę ☕. Dziękuję!',
         language: 'Język',
-        selectLanguage: 'Wybierz język interfejsu'
+        selectLanguage: 'Wybierz język interfejsu',
+        hoursAgo: 'godzin temu w',
+        hourAgo: 'godzina temu w',
+        daysAgo: 'dni temu w',
+        dayAgo: 'dzień temu w',
+        weeksAgo: 'tygodni temu w',
+        weekAgo: 'tydzień temu w',
+        monthsAgo: 'miesięcy temu w',
+        monthAgo: 'miesiąc temu w',
+        yearsAgo: 'lat temu w',
+        yearAgo: 'rok temu w'
     }
 };
